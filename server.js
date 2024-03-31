@@ -8,10 +8,15 @@ app.use(cors());
 app.use(express.json());
 
 const jsonFilePath = "./devices.json";
+const apiEndpoint = "./url.txt";
 
 // Serve the static JSON file
 app.get("/devices", function (req, res) {
   res.sendFile(jsonFilePath, { root: __dirname });
+});
+
+app.get("/url", function (req, res) {
+  res.sendFile(apiEndpoint, { root: __dirname });
 });
 
 // PATCH request to update an array in the JSON file

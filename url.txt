@@ -1,0 +1,1 @@
+"https://deluxe-speculoos-f54789.netlify.app/devices.json"
