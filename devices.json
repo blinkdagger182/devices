@@ -1,14 +1,152 @@
 [
   {
-    "id": 1,
     "device_name": "iPhone 12 Pro",
-    "variant": "256GB, Pacific Blue",
+    "variant": "512GB, Midnight Green",
+    "IMEI_Serial": "012345678901234"
+  },
+  {
+    "device_name": "Samsung Galaxy S21",
+    "variant": "256GB, Phantom Black",
+    "IMEI_Serial": "345678901234567"
+  },
+  {
+    "device_name": "Google Pixel 5",
+    "variant": "128GB, Just Black",
+    "IMEI_Serial": "678901234567890"
+  },
+  {
+    "device_name": "OnePlus 9",
+    "variant": "256GB, Astral Black",
+    "IMEI_Serial": "901234567890123"
+  },
+  {
+    "device_name": "Xiaomi Mi 11",
+    "variant": "256GB, Horizon Blue",
+    "IMEI_Serial": "234567890123456"
+  },
+  {
+    "device_name": "iPhone 12",
+    "variant": "128GB, Product Red",
+    "IMEI_Serial": "567890123456789"
+  },
+  {
+    "device_name": "Samsung Galaxy Note 20",
+    "variant": "256GB, Mystic Bronze",
+    "IMEI_Serial": "890123456789012"
+  },
+  {
+    "device_name": "Google Pixel 4a",
+    "variant": "128GB, Clearly White",
     "IMEI_Serial": "123456789012345"
   },
   {
-    "id": 2,
-    "device_name": "Samsung Galaxy S20",
-    "variant": "128GB, Cosmic Gray",
-    "IMEI_Serial": "987654321098765"
+    "device_name": "OnePlus 8T",
+    "variant": "256GB, Aquamarine Green",
+    "IMEI_Serial": "456789012345678"
+  },
+  {
+    "device_name": "Xiaomi Mi 10T",
+    "variant": "128GB, Lunar Silver",
+    "IMEI_Serial": "789012345678901"
+  },
+  {
+    "device_name": "iPhone 11",
+    "variant": "64GB, Green",
+    "IMEI_Serial": "012345678901234"
+  },
+  {
+    "device_name": "Samsung Galaxy S10",
+    "variant": "128GB, Prism Blue",
+    "IMEI_Serial": "345678901234567"
+  },
+  {
+    "device_name": "Google Pixel 3a",
+    "variant": "64GB, Purple-ish",
+    "IMEI_Serial": "678901234567890"
+  },
+  {
+    "device_name": "OnePlus Nord",
+    "variant": "128GB, Blue Marble",
+    "IMEI_Serial": "901234567890123"
+  },
+  {
+    "device_name": "Xiaomi Redmi Note 9",
+    "variant": "128GB, Forest Green",
+    "IMEI_Serial": "234567890123456"
+  },
+  {
+    "device_name": "iPhone SE (2020)",
+    "variant": "64GB, White",
+    "IMEI_Serial": "567890123456789"
+  },
+  {
+    "device_name": "Samsung Galaxy A51",
+    "variant": "128GB, Prism Crush Blue",
+    "IMEI_Serial": "890123456789012"
+  },
+  {
+    "device_name": "Google Pixel 4 XL",
+    "variant": "128GB, Clearly White",
+    "IMEI_Serial": "123456789012345"
+  },
+  {
+    "device_name": "OnePlus 7T",
+    "variant": "128GB, Frosted Silver",
+    "IMEI_Serial": "456789012345678"
+  },
+  {
+    "device_name": "Xiaomi Poco X3 NFC",
+    "variant": "128GB, Shadow Gray",
+    "IMEI_Serial": "789012345678901"
+  },
+  {
+    "device_name": "iPhone XR",
+    "variant": "64GB, Coral",
+    "IMEI_Serial": "012345678901234"
+  },
+  {
+    "device_name": "Samsung Galaxy A71",
+    "variant": "128GB, Prism Crush Black",
+    "IMEI_Serial": "345678901234567"
+  },
+  {
+    "device_name": "Google Pixel 2 XL",
+    "variant": "64GB, Just Black",
+    "IMEI_Serial": "678901234567890"
+  },
+  {
+    "device_name": "OnePlus 6T",
+    "variant": "128GB, Mirror Black",
+    "IMEI_Serial": "901234567890123"
+  },
+  {
+    "device_name": "Xiaomi Redmi Note 8 Pro",
+    "variant": "128GB, Forest Green",
+    "IMEI_Serial": "234567890123456"
+  },
+  {
+    "device_name": "iPhone XS",
+    "variant": "256GB, Silver",
+    "IMEI_Serial": "567890123456789"
+  },
+  {
+    "device_name": "Samsung Galaxy S9",
+    "variant": "64GB, Lilac Purple",
+    "IMEI_Serial": "890123456789012"
+  },
+  {
+    "device_name": "Google Pixel 3",
+    "variant": "64GB, Clearly White",
+    "IMEI_Serial": "123456789012345"
+  },
+  {
+    "device_name": "OnePlus 5T",
+    "variant": "128GB, Midnight Black",
+    "IMEI_Serial": "456789012345678"
+  },
+  {
+    "device_name": "Xiaomi Mi 9",
+    "variant": "128GB, Ocean Blue",
+    "IMEI_Serial": "789012345678901"
   }
 ]
